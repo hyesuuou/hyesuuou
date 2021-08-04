@@ -14,7 +14,7 @@
 
 - Sookmyung APPS (2019.09~)
   - Vice President (2021. 02 ~)
-  - Unity2D Game Team Project (2020) -> C#
+  - Unity2D Game Team Project '[학교 갈 수 있을까?](https://github.com/hyesuuou/Can-I-go-to-school)' (2020) -> C#
   - Web Team Project (2021) -> Java, Spring
 - SOPT 28th iOS Part YB (2021.04 ~ 2021.07)
   - SOPKATON `고도의전략` -> Swift
