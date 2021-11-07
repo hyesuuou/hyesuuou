@@ -6,7 +6,7 @@
 
 ### 🌱 I’m currently learning ...
 
-- [Swift (iOS)](https://github.com/hyesuuou/iOS-Dev)
+- [Swift (iOS)](https://github.com/hyesuuou/iOS-Dev#ios-dev)
 - java, spring
 
 
