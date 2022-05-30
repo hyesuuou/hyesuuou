@@ -4,9 +4,11 @@
 - Department of computer science / media communication
 
 
-### 🌱 I’m currently learning ...
+[Keepin - Appstore](https://apps.apple.com/do/app/keepin-%EC%84%A0%EB%AC%BC-%EA%B8%B0%EB%A1%9D-%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%8D%94-%EC%84%9C%EB%B9%84%EC%8A%A4/id1589579894)
 
-- [Swift (iOS)](https://github.com/hyesuuou/iOS-Dev#ios-dev)
+[Develop Notion](https://kimseawater.notion.site/kimseawater/Kimhyesu-Develop-Notion-eb1f70611bce4c7db484a372eac16b43)
+
+[Blog (Velog)](https://velog.io/@hyesuuou)
 
 <br>
 
