@@ -1,7 +1,10 @@
 ### 👩🏻‍💻 Hyesu Kim 
 
 - Sookmyung women's university (2019~)
-- Department of computer science / media communication
+
+### Stack
+
+`iOS` `Swift` `Python` 
 
 ### Project
 
