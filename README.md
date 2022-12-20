@@ -10,7 +10,7 @@
 
 - [Keepin - Appstore](https://apps.apple.com/do/app/keepin-%EC%84%A0%EB%AC%BC-%EA%B8%B0%EB%A1%9D-%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%8D%94-%EC%84%9C%EB%B9%84%EC%8A%A4/id1589579894): iOS(Swift)/SOPT 28th APPJAM
 - [카드나 - Appstore](https://apple.co/3tBqeh5): iOS(Swift)/SOPT 29th APPJAM
-- 포토서퍼(출시준비중): iOS(Swift)/SOPT 30th APPJAM
+- [포토서퍼 - Appstore](https://apps.apple.com/kr/app/%ED%8F%AC%ED%86%A0%EC%84%9C%ED%8D%BC-%ED%83%9C%EA%B7%B8-%EC%95%8C%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%95%A8%EB%B2%94-%EC%A0%95%EB%A6%AC-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%A7%84-%EC%B0%BE%EA%B8%B0/id1639349561): iOS(Swift)/SOPT 30th APPJAM
 - RUNWAY: iOS(Swift)/숙명여대 소프트웨어학부 졸업작품
 
 ### Study
