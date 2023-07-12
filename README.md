@@ -9,7 +9,6 @@
 
 `Swift`, `iOS🍎`
 
-`Spring`, `Java`
 
 **APP STORE**
 
