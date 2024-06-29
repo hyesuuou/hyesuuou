@@ -1,8 +1,9 @@
 ### 👩🏻‍💻 Hyesu Kim 
 
-- Sookmyung women's university (2019~)
-- Wavve Tech Internship 2기 iOS (2023.03~2023.05)
-- Wavve iOS 개발 (2023.05 ~)
+- Sookmyung women's university (2019.03 ~ 2023.08)
+- Wavve Tech Internship 2기 iOS (2023.03 ~ 2023.05)
+- Wavve iOS 개발 (2023.05 ~ 2024.06)
+- Kakaobank iOS 개발 (2024.06 ~)
 
 
 **INTERESTED IN**
